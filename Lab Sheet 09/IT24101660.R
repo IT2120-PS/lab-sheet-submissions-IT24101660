@@ -1,4 +1,4 @@
-setwd("C:\\Users\\fathi\\OneDrive\\Desktop\\IT24103987")
+setwd("C:\\Users\\sasmi\\OneDrive\\Desktop\\IT24101660")
 getwd()
 
 #random sample of size 25 for the baking time
